@@ -7,7 +7,7 @@
 - (void)initialize
 {
     // your code here
-    float timeSinceObstacle;
+   
     [self addObstacle];
     timeSinceObstacle = 0.0f;
     
